@@ -1,5 +1,5 @@
 Apache License
-                           Version 2.0, January 2004
+                           Version 2.0, January 2026
                         http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -85,7 +85,7 @@ Apache License
       or contributory patent infringement, then any patent licenses
       granted to You under this License for that Work shall terminate
       as of the date such litigation is filed.
-
+https://docs.stripe.com/js/elements_object/create_payment_element#payment_element_create-options-defaultValues-True
    4. Redistribution. You may reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
